@@ -1,0 +1,13 @@
+[package]
+name = "serene_sakura"
+authors = ["kenjitheman <im@kenjitheman.dev>"]
+description = "Anime recommendation engine"
+license = "MIT"
+repository = "https://github.com/kenjitheman/serene_sakura"
+readme = "README.md"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
